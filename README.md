@@ -4,6 +4,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/leonardo-gobetti
 )
+
 ![Leonardo Gobetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Leogb2014&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leogb2014)](https://github.com/anuraghazra/github-readme-stats)
