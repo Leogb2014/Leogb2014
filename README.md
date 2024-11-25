@@ -4,9 +4,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/leonardo-gobetti
 )
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leoogb_?igsh=ajczZHNnaXp5cmlz&utm_source=qr
-)
-
 ![Leonardo Gobetti GitHub stats](https://github-readme-stats.vercel.app/api?username=Leogb2014&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leogb2014)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,5 +25,4 @@
 
 Apaixonado por Tecnologia, sempre em busca de novas formas de transformar ideias em soluções criativas e funcionais para mudar a vida das pessoas.
 
-## Meu email para contato: 
-📧 leogobettiborges17@hotmail.com
+
